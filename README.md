@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omarhassan.mansour@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v3-XokqIv2m4iyMeSUaOcyvm3vaUh36v/view?usp=sharing](https://docs.google.com/document/d/1ymzAxAhEEPL7pD4jeCCfn3PqZ6tN8DGM/edit?usp=sharing&ouid=107420281992309502511&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v3-XokqIv2m4iyMeSUaOcyvm3vaUh36v/view?usp=sharing](https://drive.google.com/file/d/1p3qCgZu6FuQyYNJl12oHisQwRBXg8NVz/view?usp=sharing)
 
 - ⚡ Fun fact **I love turning UI designs into smooth, pixel-perfect web experiences!**
 
