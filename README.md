@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar2461" alt="omar2461" /></a> </p>
 
-- 💬 Ask me about **React, Next.js, TypeScript, JavaScript, Building responsive UI with HTML, CSS, and Tailwind CSS**
+- 💬 Ask me about **React, Next.js, TypeScript, JavaScript, Express.js, Building responsive UI with HTML, CSS, and Tailwind CSS**
 
 - 📫 How to reach me **omarhassan.mansour@gmail.com**
 
