@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Hassan</h1>
-<h3 align="center">A Frontend Developer (React.js, Next.js, TypeScript)</h3>
+<h3 align="center">A Software Developer (React.js, Next.js, TypeScript,Express.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar2461&label=Profile%20views&color=0e75b6&style=flat" alt="omar2461" /> </p>
 
