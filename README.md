@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omarhassan.mansour@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1SO7uzv1hlwFVJbQVThnqy9UKTnXCOTXM/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1LP7SyQ6XAjKUQdAb0nowZLSuv-XlOOEf/view?usp=sharing)
 
 - ⚡ Fun fact **I love turning UI designs into smooth, pixel-perfect web experiences!**
 
